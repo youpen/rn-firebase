@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.yupeng.firebasedemo;
 
 import android.support.multidex.MultiDexApplication;
 
